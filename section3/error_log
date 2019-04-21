@@ -1,0 +1,1 @@
+[29-Nov-2018 06:44:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/mindscapeltd/nielsen.mindscape.com.bd/section3/nps2c.php:1) in /home1/mindscapeltd/nielsen.mindscape.com.bd/section3/nps2c.php on line 3
